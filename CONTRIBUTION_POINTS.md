@@ -7,7 +7,7 @@
 ## Project Overview
 This document outlines the equal weighted contribution points for each team member in the development of the Online Voting System. The project is a full-stack web application that allows users to register, vote in elections, and view real-time results.
 
-## Equal Weighted Contribution Points (33.33% each)
+## Equal Weighted Contribution Points (50% each)
 
 SHASHANK
 - **Backend Development (Server-side)**
